@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat';
+}
+
+p {
+  color: #bd3651;
+  margin: 0;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}

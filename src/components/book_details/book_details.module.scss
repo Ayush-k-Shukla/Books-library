@@ -1,0 +1,50 @@
+.books {
+  display: flex;
+  gap: 30px;
+  flex-direction: column;
+  width: 100%;
+  margin-bottom: 20px;
+
+  .inputWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+    .input {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      width: 80%;
+
+      p {
+        cursor: pointer;
+        margin-left: 10px;
+      }
+    }
+  }
+
+  .allbooks {
+    display: flex;
+    gap: 25px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
+}
+
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.subject {
+  margin-top: 30px;
+}

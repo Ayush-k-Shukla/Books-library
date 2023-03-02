@@ -1,0 +1,22 @@
+.homeWrapper {
+  display: flex;
+  background-color: #f9f5e7;
+  min-height: 100vh;
+
+  .subjectsWrapper {
+    background-color: #eddbc7;
+    width: 23%;
+    padding: 20px;
+    margin-bottom: 20px;
+    position: fixed;
+    height: 100%;
+    overflow-y: scroll;
+  }
+  .contentWrapper {
+    padding: 20px;
+    width: 75%;
+    display: flex;
+    justify-content: center;
+    margin-left: 25%;
+  }
+}

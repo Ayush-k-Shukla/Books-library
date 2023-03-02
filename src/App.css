@@ -1,0 +1,50 @@
+.primary-h1 {
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 39px;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: #4f4f4f;
+}
+.primary-h2 {
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #c4c4c4;
+}
+.primary-h3 {
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #4f4f4f;
+}
+
+.primary-h4 {
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 600;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #a7a7a7;
+}
+.primary-h4-semi {
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: hsl(0, 30%, 70%);
+}
+.primary-h5 {
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #4f4f4f;
+}
